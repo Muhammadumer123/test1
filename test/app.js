@@ -7,7 +7,7 @@ const port = 5000
 app.use(express.json())
 var temp
 
-
+console.log(HIIIIIII)
 
 // request.post(
 //     // const data = { itemid:"11", userid:"315"}
